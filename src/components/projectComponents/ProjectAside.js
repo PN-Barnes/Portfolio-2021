@@ -8,9 +8,9 @@ import TechnicalBlog from './projectCards/TechnicalBlog';
 
 export default function ProjectAside() {
   return (
-    <aside class="projectsContainer container-fluid mt-5 mb-5">
-      <div id="projects" class="container-xl">
-        <div class="row row-cols-1 row-cols-md-2 g-5">
+    <aside className="projectsContainer container-fluid mt-5 mb-5">
+      <div id="projects" className="container-xl">
+        <div className="row row-cols-1 row-cols-md-2 g-5">
           <JamMap />
           <WeatherDashboard />
           <WorkdayScheduler />

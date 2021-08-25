@@ -4,10 +4,10 @@ import ProjectAside from './projectComponents/ProjectAside';
 
 function Project() {
   return (
-    <>
+    <div>
       <ProjectHeader />
       <ProjectAside />
-    </>
+    </div>
   );
 }
 
