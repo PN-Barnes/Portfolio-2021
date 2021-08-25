@@ -19,12 +19,12 @@ export default function WorkdayScheduler() {
       </a>
       <div class="card-body">
         <ul class="list-group list-group-flush">
-          <li class="list-group-item">
+          <li class="list-group-item bg-dark">
             <a href="https://github.com/PN-Barnes/WorkDay-Scheduler">
               Github Repository
             </a>
           </li>
-          <li class="list-group-item">
+          <li class="list-group-item bg-dark">
             <a href="https://pn-barnes.github.io/WorkDay-Scheduler/">
               Deployed Site
             </a>

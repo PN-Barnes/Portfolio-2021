@@ -19,12 +19,12 @@ export default function WeatherDashboard() {
       </a>
       <div class="card-body">
         <ul class="list-group list-group-flush">
-          <li class="list-group-item">
+          <li class="list-group-item bg-dark">
             <a href="https://github.com/PN-Barnes/weather-dashboard">
               Github Repository
             </a>
           </li>
-          <li class="list-group-item">
+          <li class="list-group-item bg-dark">
             <a href="https://pn-barnes.github.io/weather-dashboard/">
               Deployed Site
             </a>

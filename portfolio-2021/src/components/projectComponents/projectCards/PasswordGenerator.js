@@ -19,12 +19,12 @@ export default function PasswordGenerator() {
       </a>
       <div class="card-body">
         <ul class="list-group list-group-flush">
-          <li class="list-group-item">
+          <li class="list-group-item bg-dark">
             <a href="https://github.com/PN-Barnes/random-password-generator">
               Github Repository
             </a>
           </li>
-          <li class="list-group-item">
+          <li class="list-group-item bg-dark">
             <a href="https://pn-barnes.github.io/random-password-generator/">
               Deployed Site
             </a>

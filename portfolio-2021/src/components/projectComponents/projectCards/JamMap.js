@@ -14,10 +14,10 @@ export default function JamMap() {
       </a>
       <div class="card-body">
         <ul class="list-group list-group-flush">
-          <li class="list-group-item">
+          <li class="list-group-item bg-dark">
             <a href="https://github.com/PDPco/jam-map">Github Repository</a>
           </li>
-          <li class="list-group-item">
+          <li class="list-group-item bg-dark">
             <a href="https://pdpco.github.io/jam-map/">Deployed Site</a>
           </li>
         </ul>
