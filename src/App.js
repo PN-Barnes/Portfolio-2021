@@ -5,7 +5,7 @@ import React from 'react';
 // import Portrait from './components/Portrait';
 // import Bio from './components/Bio';
 // import Project from './components/Project';
-// import Contact from './components/Contact';
+import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Display from './components/Display';
 function App() {
@@ -17,6 +17,7 @@ function App() {
       <Project />
       <Contact /> */}
       {/* <Display /> */}
+      <Contact />
       <Footer />
     </>
   );
