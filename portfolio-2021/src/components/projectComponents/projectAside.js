@@ -3,6 +3,8 @@ import JamMap from './projectCards/JamMap';
 import WeatherDashboard from './projectCards/weatherDashboard';
 import WorkdayScheduler from './projectCards/WorkdayScheduler';
 import PasswordGenerator from './projectCards/PasswordGenerator';
+import Clove from './projectCards/Clove';
+import TechnicalBlog from './projectCards/TechnicalBlog';
 
 export default function ProjectAside() {
   return (
@@ -13,6 +15,8 @@ export default function ProjectAside() {
           <WeatherDashboard />
           <WorkdayScheduler />
           <PasswordGenerator />
+          <Clove />
+          <TechnicalBlog />
         </div>
       </div>
     </aside>
