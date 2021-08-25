@@ -1,4 +1,5 @@
 import React from 'react';
+import weatherPic from './ProjectImages/weatherDashboard.png';
 
 export default function WeatherDashboard() {
   return (
@@ -12,7 +13,7 @@ export default function WeatherDashboard() {
         </h3>
         <img
           class="img-fluid"
-          src="assets/images/weatherDashboard.png"
+          src={weatherPic}
           alt="screenshot for the weatherdashboard by city"
         />
       </a>

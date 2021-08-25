@@ -1,4 +1,5 @@
 import React from 'react';
+import blogPic from './ProjectImages/companyOrganizer.png';
 
 export default function TechnicalBlog() {
   return (
@@ -12,7 +13,7 @@ export default function TechnicalBlog() {
         </h3>
         <img
           class="img-fluid"
-          src="./assets/images/companyOrganizer.png"
+          src={blogPic}
           alt="screenshot of the password Generator"
         />
       </a>

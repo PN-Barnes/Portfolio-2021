@@ -1,4 +1,5 @@
 import React from 'react';
+import WorkPic from './ProjectImages/workdayScheduler.png';
 
 export default function WorkdayScheduler() {
   return (
@@ -12,7 +13,7 @@ export default function WorkdayScheduler() {
         </h3>
         <img
           class="img-fluid"
-          src="./workdayScheduler.png"
+          src={WorkPic}
           alt="screenshot of the workday Scheduler"
         />
       </a>

@@ -1,4 +1,5 @@
 import React from 'react';
+import JamPic from './ProjectImages/jam-map.png';
 
 export default function JamMap() {
   return (
@@ -7,7 +8,7 @@ export default function JamMap() {
         <h3 class="card-title text-center h3 text-decoration-none">Jam-Map</h3>
         <img
           class="img-fluid"
-          src="./assets/images/jam-map.png"
+          src={JamPic}
           alt="screenshot of Jam Map the application"
         />
       </a>

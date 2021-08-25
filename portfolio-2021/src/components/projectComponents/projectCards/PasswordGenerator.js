@@ -1,4 +1,5 @@
 import React from 'react';
+import passPic from './ProjectImages/passwordGenerator.png';
 
 export default function PasswordGenerator() {
   return (
@@ -12,7 +13,7 @@ export default function PasswordGenerator() {
         </h3>
         <img
           class="img-fluid"
-          src="assets/images/passwordGenerator.png"
+          src={passPic}
           alt="screenshot of the password Generator"
         />
       </a>
