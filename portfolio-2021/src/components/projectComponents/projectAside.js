@@ -2,6 +2,7 @@ import React from 'react';
 import JamMap from './projectCards/JamMap';
 import WeatherDashboard from './projectCards/weatherDashboard';
 import WorkdayScheduler from './projectCards/WorkdayScheduler';
+import PasswordGenerator from './projectCards/PasswordGenerator';
 
 export default function ProjectAside() {
   return (
@@ -11,6 +12,7 @@ export default function ProjectAside() {
           <JamMap />
           <WeatherDashboard />
           <WorkdayScheduler />
+          <PasswordGenerator />
         </div>
       </div>
     </aside>
