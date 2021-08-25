@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
 import React from 'react';
 
-function resumeCard() {
+function ResumeCard() {
   return (
     <article class="card text-center col">
       <div class="card-body">
@@ -24,4 +24,4 @@ function resumeCard() {
   );
 }
 
-export default resumeCard;
+export default ResumeCard;

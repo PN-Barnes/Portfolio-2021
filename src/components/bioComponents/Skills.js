@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
 import React from 'react';
 
-function skillsCard() {
+function SkillsCard() {
   return (
     <article class="card col text-center skills" id="skills">
       <div class="card-body">
@@ -27,4 +27,4 @@ function skillsCard() {
   );
 }
 
-export default skillsCard;
+export default SkillsCard;

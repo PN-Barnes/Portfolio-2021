@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
 import React from 'react';
 
-function trainingCard() {
+function TrainingCard() {
   <article class="card col text-center resume">
     <div class="card-body">
       <h2 class="card-title">Training:</h2>
@@ -25,4 +25,4 @@ function trainingCard() {
   </article>;
 }
 
-export default trainingCard;
+export default TrainingCard;
