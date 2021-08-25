@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function workdayScheduler() {
+export default function WorkdayScheduler() {
   return (
     <section class="card col" id="workDay">
       <a

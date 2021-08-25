@@ -1,6 +1,7 @@
 import React from 'react';
 import JamMap from './projectCards/JamMap';
 import WeatherDashboard from './projectCards/weatherDashboard';
+import WorkdayScheduler from './projectCards/WorkdayScheduler';
 
 export default function ProjectAside() {
   return (
@@ -9,6 +10,7 @@ export default function ProjectAside() {
         <div class="row row-cols-1 row-cols-md-2 g-5">
           <JamMap />
           <WeatherDashboard />
+          <WorkdayScheduler />
         </div>
       </div>
     </aside>
