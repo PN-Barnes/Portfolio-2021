@@ -1,6 +1,6 @@
 import React from 'react';
 
-function headerDiv() {
+export default function Header() {
   return (
     <header>
       <nav class="navbar justify-content-center text-center mb-3" id="pageNav">
@@ -25,5 +25,3 @@ function headerDiv() {
     </header>
   );
 }
-
-export default headerDiv;

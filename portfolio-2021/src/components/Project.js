@@ -1,12 +1,12 @@
 import React from 'react';
-import projectHeader from './projectComponents/projectHeader';
-import projectAside from './projectComponents/projectAside';
+import ProjectHeader from './projectComponents/ProjectHeader';
+import ProjectAside from './projectComponents/ProjectAside';
 
 function Project() {
   return (
     <>
-      <projectHeader />
-      <projectAside />
+      <ProjectHeader />
+      <ProjectAside />
     </>
   );
 }

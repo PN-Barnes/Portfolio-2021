@@ -1,6 +1,6 @@
 import React from 'react';
 
-function portraitDiv() {
+export default function Portrait() {
   return (
     <div
       class="card row row-cols-1 container-xl portrait justify-content-center"
@@ -35,5 +35,3 @@ function portraitDiv() {
     </div>
   );
 }
-
-export default portraitDiv;

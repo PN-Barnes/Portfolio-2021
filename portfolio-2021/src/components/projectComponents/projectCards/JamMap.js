@@ -1,6 +1,6 @@
 import React from 'react';
 
-function jamMap() {
+export default function JamMap() {
   return (
     <section class="card col" id="JamMap">
       <a class="card-link" href="https://pdpco.github.io/jam-map/">
@@ -24,5 +24,3 @@ function jamMap() {
     </section>
   );
 }
-
-export default jamMap;

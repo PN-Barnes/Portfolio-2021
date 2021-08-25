@@ -1,6 +1,6 @@
 import React from 'react';
 
-function weatherDashboard() {
+export default function WeatherDashboard() {
   return (
     <section class="card col" id="weatherDashboard">
       <a
@@ -33,4 +33,3 @@ function weatherDashboard() {
     </section>
   );
 }
-export default weatherDashboard;

@@ -4,7 +4,7 @@ import resumeCard from './bioComponents/Resume';
 import skillsCard from './bioComponents/Skills';
 import trainingCard from './bioComponents/Training';
 
-function bioDiv() {
+export default function Bio() {
   return (
     <main class="container-xl" id="bio">
       <div class="row row-cols-1 row-cols-md-2 gx-4 gy-4">
@@ -16,5 +16,3 @@ function bioDiv() {
     </main>
   );
 }
-
-export default bioDiv;

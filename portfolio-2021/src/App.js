@@ -1,16 +1,16 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
 import './App.css';
 import React from 'react';
-import headerDiv from './components/Header';
-import portraitDiv from './components/Portrait';
-import bioDiv from './components/Bio';
+import Header from './components/Header';
+import Portrait from './components/Portrait';
+import Bio from './components/Bio';
 import Project from './components/Project';
 function App() {
   return (
     <>
-      <headerDiv />
-      <portraitDiv />
-      <bioDiv />
+      <Header />
+      <Portrait />
+      <Bio />
       <Project />
       {/* <!-- BIO BACKGROUND AND SKILLS --> */}
 
