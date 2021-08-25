@@ -1,4 +1,5 @@
 import React from 'react';
+import Tower from './bioImages/Sacramento_Tower_Bridge_1920x1080.jpg';
 
 function BackgroundCard() {
   return (
@@ -13,7 +14,7 @@ function BackgroundCard() {
         </p>
       </div>
       <img
-        src="./assets/images/Sacramento_Tower_Bridge_1920x1080.jpg"
+        src={Tower}
         className="card-img-bottom"
         alt="Sacramento tower bridge"
       />
