@@ -15,11 +15,6 @@ function App() {
       {/* <!-- BIO BACKGROUND AND SKILLS --> */}
 
       {/* <!-- PROJECTS --> */}
-      <div class="row row-cols-1 row-cols-md-2 justify-content-center mb-4">
-        <h2 class="h2 col text-center" id="headingProjects">
-          Projects
-        </h2>
-      </div>
 
       <aside class="projectsContainer container-fluid mt-5 mb-5">
         <div id="projects" class="container-xl">
