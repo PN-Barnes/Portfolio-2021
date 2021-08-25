@@ -12,7 +12,7 @@ export default function WorkdayScheduler() {
         </h3>
         <img
           class="img-fluid"
-          src="assets/images/workdayScheduler.png"
+          src="./workdayScheduler.png"
           alt="screenshot of the workday Scheduler"
         />
       </a>

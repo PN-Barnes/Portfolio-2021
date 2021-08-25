@@ -1,4 +1,5 @@
 import React from 'react';
+import ClovePic from './ProjectImages/CLOVE.png';
 
 export default function Clove() {
   return (
@@ -7,8 +8,8 @@ export default function Clove() {
         <h3 class="card-title text-center h3 text-decoration-none">CLOVE</h3>
         <img
           class="img-fluid"
-          src="./assets/images/CLOVE.png"
-          alt="screenshot of the password Generator"
+          src={ClovePic}
+          alt="screenshot of Clove Application"
         />
       </a>
       <div class="card-body">
