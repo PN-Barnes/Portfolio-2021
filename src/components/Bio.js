@@ -3,6 +3,7 @@ import BackgroundCard from './bioComponents/Background';
 import ResumeCard from './bioComponents/Resume';
 import SkillsCard from './bioComponents/Skills';
 import TrainingCard from './bioComponents/Training';
+import SkillsList from './bioComponents/SkillsList';
 
 export default function Bio() {
   return (
@@ -12,6 +13,7 @@ export default function Bio() {
         <SkillsCard />
         <TrainingCard />
         <ResumeCard />
+        <SkillsList />
       </div>
     </main>
   );
