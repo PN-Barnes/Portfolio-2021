@@ -14,6 +14,11 @@ function Display() {
         >
           <ul className="nav justify-content-center nav-pills text-center">
             <li>
+              <Link className="nav-link h3" to="/" name="Home">
+                Home
+              </Link>
+            </li>
+            <li>
               <Link className="nav-link h3" to="/bio" name="Bio">
                 Bio
               </Link>
@@ -21,11 +26,6 @@ function Display() {
             <li>
               <Link className="nav-link h3" to="/project" name="Projects">
                 Projects
-              </Link>
-            </li>
-            <li>
-              <Link className="nav-link h3" to="/" name="Home">
-                Home
               </Link>
             </li>
             {/* <li>
