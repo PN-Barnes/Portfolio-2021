@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/Portfolio-2021/static/css/main.9ad40119.chunk.css",
-    "main.js": "/Portfolio-2021/static/js/main.c4e5ac7e.chunk.js",
-    "main.js.map": "/Portfolio-2021/static/js/main.c4e5ac7e.chunk.js.map",
-    "runtime-main.js": "/Portfolio-2021/static/js/runtime-main.f58624d8.js",
-    "runtime-main.js.map": "/Portfolio-2021/static/js/runtime-main.f58624d8.js.map",
+    "main.css": "/Portfolio-2021/static/css/main.91ed6856.chunk.css",
+    "main.js": "/Portfolio-2021/static/js/main.f35ada8f.chunk.js",
+    "main.js.map": "/Portfolio-2021/static/js/main.f35ada8f.chunk.js.map",
+    "runtime-main.js": "/Portfolio-2021/static/js/runtime-main.1e95f134.js",
+    "runtime-main.js.map": "/Portfolio-2021/static/js/runtime-main.1e95f134.js.map",
     "static/css/2.818011ed.chunk.css": "/Portfolio-2021/static/css/2.818011ed.chunk.css",
-    "static/js/2.6b960b7a.chunk.js": "/Portfolio-2021/static/js/2.6b960b7a.chunk.js",
-    "static/js/2.6b960b7a.chunk.js.map": "/Portfolio-2021/static/js/2.6b960b7a.chunk.js.map",
-    "static/js/3.6b34fe13.chunk.js": "/Portfolio-2021/static/js/3.6b34fe13.chunk.js",
-    "static/js/3.6b34fe13.chunk.js.map": "/Portfolio-2021/static/js/3.6b34fe13.chunk.js.map",
+    "static/js/2.524d7879.chunk.js": "/Portfolio-2021/static/js/2.524d7879.chunk.js",
+    "static/js/2.524d7879.chunk.js.map": "/Portfolio-2021/static/js/2.524d7879.chunk.js.map",
+    "static/js/3.8ecb49b0.chunk.js": "/Portfolio-2021/static/js/3.8ecb49b0.chunk.js",
+    "static/js/3.8ecb49b0.chunk.js.map": "/Portfolio-2021/static/js/3.8ecb49b0.chunk.js.map",
     "index.html": "/Portfolio-2021/index.html",
     "static/css/2.818011ed.chunk.css.map": "/Portfolio-2021/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.9ad40119.chunk.css.map": "/Portfolio-2021/static/css/main.9ad40119.chunk.css.map",
-    "static/js/2.6b960b7a.chunk.js.LICENSE.txt": "/Portfolio-2021/static/js/2.6b960b7a.chunk.js.LICENSE.txt",
+    "static/css/main.91ed6856.chunk.css.map": "/Portfolio-2021/static/css/main.91ed6856.chunk.css.map",
+    "static/js/2.524d7879.chunk.js.LICENSE.txt": "/Portfolio-2021/static/js/2.524d7879.chunk.js.LICENSE.txt",
     "static/media/CLOVE.4bffca40.png": "/Portfolio-2021/static/media/CLOVE.4bffca40.png",
+    "static/media/Ghost-bridge.7c0258df.jpg": "/Portfolio-2021/static/media/Ghost-bridge.7c0258df.jpg",
     "static/media/PBPic4.a7707a65.jpg": "/Portfolio-2021/static/media/PBPic4.a7707a65.jpg",
     "static/media/PBResume2021.3155e1b4.pdf": "/Portfolio-2021/static/media/PBResume2021.3155e1b4.pdf",
     "static/media/Sacramento_Tower_Bridge_1920x1080.fddee5b9.jpg": "/Portfolio-2021/static/media/Sacramento_Tower_Bridge_1920x1080.fddee5b9.jpg",
@@ -24,15 +25,14 @@
     "static/media/logo-codecademy-social.0a3eb946.jpg": "/Portfolio-2021/static/media/logo-codecademy-social.0a3eb946.jpg",
     "static/media/passwordGenerator.51e23c84.png": "/Portfolio-2021/static/media/passwordGenerator.51e23c84.png",
     "static/media/resumeScreenshot.8cfc5fc1.png": "/Portfolio-2021/static/media/resumeScreenshot.8cfc5fc1.png",
-    "static/media/tierra-Alta-bw.3f5bb4c7.png": "/Portfolio-2021/static/media/tierra-Alta-bw.3f5bb4c7.png",
     "static/media/weatherDashboard.3ef78f8c.png": "/Portfolio-2021/static/media/weatherDashboard.3ef78f8c.png",
     "static/media/workdayScheduler.2a0f5886.png": "/Portfolio-2021/static/media/workdayScheduler.2a0f5886.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f58624d8.js",
+    "static/js/runtime-main.1e95f134.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.6b960b7a.chunk.js",
-    "static/css/main.9ad40119.chunk.css",
-    "static/js/main.c4e5ac7e.chunk.js"
+    "static/js/2.524d7879.chunk.js",
+    "static/css/main.91ed6856.chunk.css",
+    "static/js/main.f35ada8f.chunk.js"
   ]
 }
