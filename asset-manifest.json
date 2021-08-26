@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/Portfolio-2021/static/css/main.0d3ed6ec.chunk.css",
-    "main.js": "/Portfolio-2021/static/js/main.241c475b.chunk.js",
-    "main.js.map": "/Portfolio-2021/static/js/main.241c475b.chunk.js.map",
-    "runtime-main.js": "/Portfolio-2021/static/js/runtime-main.1e95f134.js",
-    "runtime-main.js.map": "/Portfolio-2021/static/js/runtime-main.1e95f134.js.map",
+    "main.js": "/Portfolio-2021/static/js/main.4629c12a.chunk.js",
+    "main.js.map": "/Portfolio-2021/static/js/main.4629c12a.chunk.js.map",
+    "runtime-main.js": "/Portfolio-2021/static/js/runtime-main.f58624d8.js",
+    "runtime-main.js.map": "/Portfolio-2021/static/js/runtime-main.f58624d8.js.map",
     "static/css/2.818011ed.chunk.css": "/Portfolio-2021/static/css/2.818011ed.chunk.css",
-    "static/js/2.859762f0.chunk.js": "/Portfolio-2021/static/js/2.859762f0.chunk.js",
-    "static/js/2.859762f0.chunk.js.map": "/Portfolio-2021/static/js/2.859762f0.chunk.js.map",
-    "static/js/3.8ecb49b0.chunk.js": "/Portfolio-2021/static/js/3.8ecb49b0.chunk.js",
-    "static/js/3.8ecb49b0.chunk.js.map": "/Portfolio-2021/static/js/3.8ecb49b0.chunk.js.map",
+    "static/js/2.6b960b7a.chunk.js": "/Portfolio-2021/static/js/2.6b960b7a.chunk.js",
+    "static/js/2.6b960b7a.chunk.js.map": "/Portfolio-2021/static/js/2.6b960b7a.chunk.js.map",
+    "static/js/3.6b34fe13.chunk.js": "/Portfolio-2021/static/js/3.6b34fe13.chunk.js",
+    "static/js/3.6b34fe13.chunk.js.map": "/Portfolio-2021/static/js/3.6b34fe13.chunk.js.map",
     "index.html": "/Portfolio-2021/index.html",
     "static/css/2.818011ed.chunk.css.map": "/Portfolio-2021/static/css/2.818011ed.chunk.css.map",
     "static/css/main.0d3ed6ec.chunk.css.map": "/Portfolio-2021/static/css/main.0d3ed6ec.chunk.css.map",
-    "static/js/2.859762f0.chunk.js.LICENSE.txt": "/Portfolio-2021/static/js/2.859762f0.chunk.js.LICENSE.txt",
+    "static/js/2.6b960b7a.chunk.js.LICENSE.txt": "/Portfolio-2021/static/js/2.6b960b7a.chunk.js.LICENSE.txt",
     "static/media/CLOVE.4bffca40.png": "/Portfolio-2021/static/media/CLOVE.4bffca40.png",
     "static/media/PBPic4.a7707a65.jpg": "/Portfolio-2021/static/media/PBPic4.a7707a65.jpg",
+    "static/media/PBResume2021.3155e1b4.pdf": "/Portfolio-2021/static/media/PBResume2021.3155e1b4.pdf",
     "static/media/Sacramento_Tower_Bridge_1920x1080.fddee5b9.jpg": "/Portfolio-2021/static/media/Sacramento_Tower_Bridge_1920x1080.fddee5b9.jpg",
     "static/media/berkeley.21ff2c94.png": "/Portfolio-2021/static/media/berkeley.21ff2c94.png",
     "static/media/companyOrganizer.f512905f.png": "/Portfolio-2021/static/media/companyOrganizer.f512905f.png",
@@ -28,10 +29,10 @@
     "static/media/workdayScheduler.2a0f5886.png": "/Portfolio-2021/static/media/workdayScheduler.2a0f5886.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1e95f134.js",
+    "static/js/runtime-main.f58624d8.js",
     "static/css/2.818011ed.chunk.css",
-    "static/js/2.859762f0.chunk.js",
+    "static/js/2.6b960b7a.chunk.js",
     "static/css/main.0d3ed6ec.chunk.css",
-    "static/js/main.241c475b.chunk.js"
+    "static/js/main.4629c12a.chunk.js"
   ]
 }
