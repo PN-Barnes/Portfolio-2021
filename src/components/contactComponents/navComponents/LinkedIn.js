@@ -4,7 +4,7 @@ export default function LinkedIn() {
   return (
     <li>
       <a
-        class="nav-link"
+        className="nav-link"
         href="https://www.linkedin.com/in/paul-barnes-879097129/"
       >
         LinkedIn

@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
 import Bio from './Bio';
 import Project from './Project';
 import Portrait from './Portrait';
+import ContactForm from './ContactPage';
 
 function Display() {
   return (
@@ -28,6 +29,11 @@ function Display() {
                 Projects
               </Link>
             </li>
+            <li>
+              <Link className="nav-link h3" to="/contact" name="Contact">
+                Contact
+              </Link>
+            </li>
             {/* <li>
               <Link className="nav-link h3" to="/contact" name="Contact">
                 Contact
@@ -35,18 +41,18 @@ function Display() {
             </li> */}
           </ul>
           <Switch>
+            <Route path="/">
+              <Portrait />
+            </Route>
             <Route path="/bio">
               <Bio />
             </Route>
             <Route path="/project">
               <Project />
             </Route>
-            <Route path="/">
-              <Portrait />
+            <Route path="/contact">
+              <ContactForm />
             </Route>
-            {/* <Route path="/contact">
-          <Contact />
-        </Route> */}
           </Switch>
         </nav>
       </header>

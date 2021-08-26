@@ -1,6 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
 import React from 'react';
 import Resume from './bioImages/resumeScreenshot.png';
+import pbResume from './Documents/PBResume2021.pdf';
 
 function ResumeCard() {
   return (
@@ -19,7 +20,7 @@ function ResumeCard() {
       />
       <a
         className="lh-md text-decoration-none link-dark stretched-link"
-        href="../assets/Documents/PBResume2021.pdf"
+        href={pbResume}
       ></a>
     </article>
   );

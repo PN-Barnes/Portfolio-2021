@@ -5,7 +5,7 @@ import Github from './navComponents/Github';
 
 export default function ContactList() {
   return (
-    <ul class="nav justify-content-center nav-pills">
+    <ul className="nav justify-content-center nav-pills">
       <Email />
       <LinkedIn />
       <Github />
