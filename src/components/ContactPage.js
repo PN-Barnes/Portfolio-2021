@@ -34,45 +34,64 @@ export default function ContactForm() {
     setLastName('');
   };
   return (
-    <div>
-      <p>Fill out the form to contact directly!</p>
-      <form className="form">
-        <input
-          value={firstName}
-          name="firstName"
-          onChange={handleInputChange}
-          type="text"
-          placeholder="First Name"
-        />
-        <input
-          value={lastName}
-          name="lastName"
-          onChange={handleInputChange}
-          type="text"
-          placeholder="Last Name"
-        />
-        <input
-          value={email}
-          name="email"
-          onChange={handleInputChange}
-          type="text"
-          placeholder="Email"
-        />
-        <input
-          value={phone}
-          name="phone"
-          onChange={handleInputChange}
-          type="text"
-          placeholder="Phone Number"
-        />
-        <input
-          value={message}
-          name="message"
-          onChange={handleInputChange}
-          type="text"
-          placeholder="Message"
-        />
-        <button type="button" onClick={handleFormSubmit}>
+    <div className="container">
+      <p className="container">Fill out the form to contact me directly!</p>
+      <form className="form container justify-content-center">
+        <div className="mb-3">
+          <input
+            value={firstName}
+            name="firstName"
+            onChange={handleInputChange}
+            type="text"
+            placeholder="First Name"
+            className="form-control"
+          />
+        </div>
+        <div className="mb-3">
+          <input
+            value={lastName}
+            name="lastName"
+            onChange={handleInputChange}
+            type="text"
+            placeholder="Last Name"
+            className="form-control"
+          />
+        </div>
+        <div className="mb-3">
+          <input
+            value={email}
+            name="email"
+            onChange={handleInputChange}
+            type="email"
+            placeholder="Email"
+            className="form-control"
+          />
+        </div>
+        <div className="mb-3">
+          <input
+            value={phone}
+            name="phone"
+            onChange={handleInputChange}
+            type="text"
+            placeholder="Phone Number"
+            className="form-control"
+          />
+        </div>
+        <div className="mb-3">
+          <input
+            value={message}
+            name="message"
+            onChange={handleInputChange}
+            type="text"
+            placeholder="Message"
+            className="form-control"
+          />
+        </div>
+        <button
+          type="button"
+          onClick={handleFormSubmit}
+          className="btn btn-warning"
+        >
           Submit
         </button>
       </form>

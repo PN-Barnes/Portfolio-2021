@@ -5,7 +5,7 @@ import Project from './Project';
 import Portrait from './Portrait';
 import ContactForm from './ContactPage';
 
-function Display() {
+export default function Display() {
   return (
     <Router>
       <header>
@@ -34,16 +34,8 @@ function Display() {
                 Contact
               </Link>
             </li>
-            {/* <li>
-              <Link className="nav-link h3" to="/contact" name="Contact">
-                Contact
-              </Link>
-            </li> */}
           </ul>
           <Switch>
-            <Route path="/">
-              <Portrait />
-            </Route>
             <Route path="/bio">
               <Bio />
             </Route>
@@ -53,10 +45,12 @@ function Display() {
             <Route path="/contact">
               <ContactForm />
             </Route>
+            <Route path="/">
+              <Portrait />
+            </Route>
           </Switch>
         </nav>
       </header>
     </Router>
   );
 }
-export default Display;
