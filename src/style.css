@@ -44,3 +44,16 @@ ul,
   color: gold;
   font-size: 2rem;
 }
+
+/* .hello,
+.paul,
+.fullstack {
+  font-size: 3rem;
+} */
+
+@media only screen and (max-width: 1024) {
+  .tierra {
+    width: 50px;
+    height: 50px;
+  }
+}

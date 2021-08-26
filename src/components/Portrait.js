@@ -20,18 +20,17 @@ export default function Portrait() {
       />
       <div className="card-img-overlay">
         <img
-          className="img-fluid"
+          className="img-fluid img-thumbnail tierra"
           src={pbPic}
           // eslint-disable-next-line react/jsx-no-duplicate-props
-          className="headshot"
           width="200px"
           height="200px"
           style={borderStyle.border}
           alt="portrait of me!"
         />
-        <h2 className="h2 text-center">Hello World!</h2>
-        <p className="h3 text-center">Paul Barnes</p>
-        <p className="h3 text-center">FullStack Developer</p>
+        <h1 className="h1 text-center hello">Hello World!</h1>
+        <h1 className="h1 text-center paul">Paul Barnes</h1>
+        <h1 className="h1 text-center fullstack">FullStack Developer</h1>
       </div>
     </div>
   );
