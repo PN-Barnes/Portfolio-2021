@@ -1,5 +1,5 @@
 import React from 'react';
-import tierraAlta from './images/tierra-Alta-bw.png';
+import tierraAlta from './images/Ghost-bridge.jpg';
 import pbPic from './images/PBPic4.jpg';
 const borderStyle = {
   border: {
@@ -19,7 +19,7 @@ export default function Portrait() {
         alt=""
       />
       <div className="card-img-overlay">
-        <img
+        {/* <img
           className="img-fluid img-thumbnail tierra"
           src={pbPic}
           // eslint-disable-next-line react/jsx-no-duplicate-props
@@ -27,7 +27,7 @@ export default function Portrait() {
           height="200px"
           style={borderStyle.border}
           alt="portrait of me!"
-        />
+        /> */}
         <h1 className="h1 text-center hello">Hello World!</h1>
         <h1 className="h1 text-center paul">Paul Barnes</h1>
         <h1 className="h1 text-center fullstack">FullStack Developer</h1>
