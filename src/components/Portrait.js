@@ -1,9 +1,14 @@
 import React from 'react';
-import tierraAlta from './images/Ghost-bridge.jpg';
+import ghostBridge from './images/Ghost-bridge.jpg';
 import pbPic from './images/PBPic4.jpg';
 const borderStyle = {
   border: {
     borderRadius: '50%',
+  },
+};
+const imgStyle = {
+  objectFit: {
+    objectFit: 'cover',
   },
 };
 export default function Portrait() {
@@ -15,10 +20,11 @@ export default function Portrait() {
         id="portrait-container"
       >
         <img
-          src={tierraAlta}
+          src={ghostBridge}
           className="card-img img-fluid"
           id="tierraAlta"
           alt=""
+          style={imgStyle}
         />
         <div className="card-img-overlay">
           <img
