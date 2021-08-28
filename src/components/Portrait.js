@@ -4,6 +4,7 @@ import pbPic from './images/PBPic4.jpg';
 const borderStyle = {
   border: {
     borderRadius: '50%',
+    border: 'ffd300',
   },
 };
 const imgStyle = {
