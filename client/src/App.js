@@ -12,11 +12,6 @@ function App() {
   return (
     <>
       <Display />
-      {/* <Portrait />
-      <Bio />
-      <Project />
-      <Contact /> */}
-      {/* <Display /> */}
       <Contact />
       <Footer />
     </>
