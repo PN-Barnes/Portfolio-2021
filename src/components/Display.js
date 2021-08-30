@@ -10,7 +10,7 @@ export default function Display() {
     <Router>
       <header>
         <nav
-          className="navbar justify-content-center text-center mb-3"
+          className="navbar d-block justify-content-center text-center mb-3"
           id="pageNav"
         >
           <ul className="nav justify-content-center nav-pills text-center">
