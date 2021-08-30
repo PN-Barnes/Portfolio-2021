@@ -4,6 +4,7 @@ import pbPic from './images/PBPic4.jpg';
 const borderStyle = {
   border: {
     borderRadius: '50%',
+    border: 'ffd300',
   },
 };
 const imgStyle = {
@@ -27,19 +28,28 @@ export default function Portrait() {
           style={imgStyle}
         />
         <div className="card-img-overlay">
-          <img
+          {/* <img
             className="img-fluid img-thumbnail tierra"
             src={pbPic}
             // eslint-disable-next-line react/jsx-no-duplicate-props
-            width="200px"
+            width="200px" 
             height="200px"
             style={borderStyle.border}
             alt="portrait of me!"
-          />
+          /> */}
 
           <h1 className="h1 text-center paul">Paul Barnes</h1>
           <h1 className="h1 text-center fullstack">FullStack Developer</h1>
         </div>
+        <img
+          className="img-fluid img-thumbnail mx-auto d-block tierra"
+          src={pbPic}
+          // eslint-disable-next-line react/jsx-no-duplicate-props
+          width="200px"
+          height="200px"
+          style={borderStyle.border}
+          alt="portrait of me!"
+        />
       </div>
       <div className="container-md ">
         <h1>About Me</h1>

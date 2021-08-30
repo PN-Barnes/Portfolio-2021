@@ -1,6 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-has-content */
 import './App.css';
-import React from 'react';
+
 // import Header from './components/Header';
 // import Portrait from './components/Portrait';
 // import Bio from './components/Bio';
