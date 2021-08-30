@@ -1,11 +1,5 @@
 import React from 'react';
 import { useProjectContext } from '../../utils/ProjectContext';
-// import JamMap from './projectCards/JamMap';
-// import WeatherDashboard from './projectCards/weatherDashboard';
-// import WorkdayScheduler from './projectCards/WorkdayScheduler';
-// import PasswordGenerator from './projectCards/PasswordGenerator';
-// import Clove from './projectCards/Clove';
-// import TechnicalBlog from './projectCards/TechnicalBlog';
 
 export default function ProjectAside() {
   const { projects } = useProjectContext();
@@ -22,7 +16,7 @@ export default function ProjectAside() {
                 </h3>
                 <img
                   className="img-fluid"
-                  // src={ClovePic}
+                  src={project.picture}
                   alt={project.projectName}
                 />
               </a>
