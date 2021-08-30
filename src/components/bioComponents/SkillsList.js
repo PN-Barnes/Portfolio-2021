@@ -4,7 +4,7 @@ export default function SkillsList() {
   return (
     <div className="container">
       <h1 className="justify-content-center">Technical Skills</h1>
-      <ul className="list-group list-group-horizontal justify-content-center">
+      <ul className="list-group list-group-horizontal-lg justify-content-center">
         <li className="list-group-item flex-fill item my-4">HTML5</li>
         <li className="list-group-item flex-fill item my-4">CSS3</li>
         <li className="list-group-item flex-fill item my-4">SQL</li>
