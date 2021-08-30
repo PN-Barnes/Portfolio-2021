@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Portfolio-2021/static/css/main.91ed6856.chunk.css",
-    "main.js": "/Portfolio-2021/static/js/main.ecb02df1.chunk.js",
-    "main.js.map": "/Portfolio-2021/static/js/main.ecb02df1.chunk.js.map",
+    "main.css": "/Portfolio-2021/static/css/main.227ef897.chunk.css",
+    "main.js": "/Portfolio-2021/static/js/main.b2c188d2.chunk.js",
+    "main.js.map": "/Portfolio-2021/static/js/main.b2c188d2.chunk.js.map",
     "runtime-main.js": "/Portfolio-2021/static/js/runtime-main.1e95f134.js",
     "runtime-main.js.map": "/Portfolio-2021/static/js/runtime-main.1e95f134.js.map",
     "static/css/2.818011ed.chunk.css": "/Portfolio-2021/static/css/2.818011ed.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.8ecb49b0.chunk.js.map": "/Portfolio-2021/static/js/3.8ecb49b0.chunk.js.map",
     "index.html": "/Portfolio-2021/index.html",
     "static/css/2.818011ed.chunk.css.map": "/Portfolio-2021/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.91ed6856.chunk.css.map": "/Portfolio-2021/static/css/main.91ed6856.chunk.css.map",
+    "static/css/main.227ef897.chunk.css.map": "/Portfolio-2021/static/css/main.227ef897.chunk.css.map",
     "static/js/2.524d7879.chunk.js.LICENSE.txt": "/Portfolio-2021/static/js/2.524d7879.chunk.js.LICENSE.txt",
     "static/media/CLOVE.4bffca40.png": "/Portfolio-2021/static/media/CLOVE.4bffca40.png",
     "static/media/Ghost-bridge.7c0258df.jpg": "/Portfolio-2021/static/media/Ghost-bridge.7c0258df.jpg",
@@ -32,7 +32,7 @@
     "static/js/runtime-main.1e95f134.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.524d7879.chunk.js",
-    "static/css/main.91ed6856.chunk.css",
-    "static/js/main.ecb02df1.chunk.js"
+    "static/css/main.227ef897.chunk.css",
+    "static/js/main.b2c188d2.chunk.js"
   ]
 }
