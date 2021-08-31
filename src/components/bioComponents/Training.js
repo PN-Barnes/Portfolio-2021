@@ -9,7 +9,7 @@ function TrainingCard() {
         <h2 className="card-title">Training:</h2>
         <p className="card-text lh-md">
           I am currently working on my certification to be a full stack
-          developer throug The university of California Berkeley extension
+          developer through The University of California Berkeley extension
           Coding Bootcamp. I am also learning other web development skills
           through CodeCademy. If you wish to know more about the Bootcamp, click
           on this card to check out the details.
